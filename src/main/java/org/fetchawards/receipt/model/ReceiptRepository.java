@@ -1,4 +1,4 @@
-package org.fetchawards.model;
+package org.fetchawards.receipt.model;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -1,9 +1,9 @@
-package org.fetchawards.api;
+package org.fetchawards.receipt.api;
 
 import lombok.RequiredArgsConstructor;
-import org.fetchawards.model.Item;
-import org.fetchawards.model.Receipt;
-import org.fetchawards.model.ReceiptRepository;
+import org.fetchawards.receipt.model.Item;
+import org.fetchawards.receipt.model.Receipt;
+import org.fetchawards.receipt.model.ReceiptRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

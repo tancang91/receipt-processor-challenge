@@ -1,10 +1,10 @@
-package org.fetchawards.api;
+package org.fetchawards.receipt.api;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import org.fetchawards.model.Item;
+import org.fetchawards.receipt.model.Item;
 
 import java.math.BigDecimal;
 

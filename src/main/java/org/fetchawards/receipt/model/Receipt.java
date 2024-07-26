@@ -1,4 +1,4 @@
-package org.fetchawards.model;
+package org.fetchawards.receipt.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
@@ -8,7 +8,6 @@ import lombok.ToString;
 import org.springframework.lang.NonNull;
 
 import java.time.LocalDateTime;
-import java.util.HashSet;
 import java.util.Set;
 
 

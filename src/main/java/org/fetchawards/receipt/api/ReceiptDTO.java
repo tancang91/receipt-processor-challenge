@@ -1,8 +1,8 @@
-package org.fetchawards.api;
+package org.fetchawards.receipt.api;
 
 import lombok.*;
-import org.fetchawards.model.Item;
-import org.fetchawards.model.Receipt;
+import org.fetchawards.receipt.model.Item;
+import org.fetchawards.receipt.model.Receipt;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
